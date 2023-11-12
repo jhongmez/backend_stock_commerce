@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sNioE1Fklr7l8giuWKB5cK3oLh2HgLKRMr1Q2sObdUd8WhIta+uJ3pB1+FDCLfCxhOOqVPo/7fS3krYB84NP2g==",
+  "success": true,
+  "projectFilePath": "D:\\Project_C#\\backend_stock_commerce\\StockCommerce\\StockCommerce.Transversal.Mapper\\StockCommerce.Transversal.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roland\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Roland\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

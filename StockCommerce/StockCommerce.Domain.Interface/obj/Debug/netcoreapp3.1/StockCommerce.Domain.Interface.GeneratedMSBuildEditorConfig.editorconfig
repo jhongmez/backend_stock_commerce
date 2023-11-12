@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = StockCommerce.Domain.Interface
+build_property.ProjectDir = D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Domain.Interface\

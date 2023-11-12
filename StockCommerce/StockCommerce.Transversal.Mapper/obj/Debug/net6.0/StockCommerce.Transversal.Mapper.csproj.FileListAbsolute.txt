@@ -1,0 +1,17 @@
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\bin\Debug\net6.0\StockCommerce.Transversal.Mapper.deps.json
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\bin\Debug\net6.0\StockCommerce.Transversal.Mapper.dll
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\bin\Debug\net6.0\StockCommerce.Transversal.Mapper.pdb
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\bin\Debug\net6.0\StockCommerce.Aplication.DTO.dll
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\bin\Debug\net6.0\StockCommerce.Domain.Entities.dll
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\bin\Debug\net6.0\StockCommerce.Aplication.DTO.pdb
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\bin\Debug\net6.0\StockCommerce.Domain.Entities.pdb
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\obj\Debug\net6.0\StockCommerce.Transversal.Mapper.csproj.AssemblyReference.cache
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\obj\Debug\net6.0\StockCommerce.Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\obj\Debug\net6.0\StockCommerce.Transversal.Mapper.AssemblyInfoInputs.cache
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\obj\Debug\net6.0\StockCommerce.Transversal.Mapper.AssemblyInfo.cs
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\obj\Debug\net6.0\StockCommerce.Transversal.Mapper.csproj.CoreCompileInputs.cache
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\obj\Debug\net6.0\StockCommerce.Transversal.Mapper.csproj.CopyComplete
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\obj\Debug\net6.0\StockCommerce.Transversal.Mapper.dll
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\obj\Debug\net6.0\refint\StockCommerce.Transversal.Mapper.dll
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\obj\Debug\net6.0\StockCommerce.Transversal.Mapper.pdb
+D:\Project_C#\StockCommerce\StockCommerce.Transversal.Mapper\obj\Debug\net6.0\ref\StockCommerce.Transversal.Mapper.dll

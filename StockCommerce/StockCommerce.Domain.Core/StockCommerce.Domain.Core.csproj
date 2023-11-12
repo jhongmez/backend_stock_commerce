@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StockCommerce.Domain.Entities\StockCommerce.Domain.Entities.csproj" />
+    <ProjectReference Include="..\StockCommerce.Domain.Interface\StockCommerce.Domain.Interface.csproj" />
+    <ProjectReference Include="..\StockCommerce.Infraestructure.Interface\StockCommerce.Infraestructure.Interface.csproj" />
+    <ProjectReference Include="..\StockCommerce.Transversal.Common\StockCommerce.Transversal.Common.csproj" />
+    <ProjectReference Include="..\StockCommerce.Transversal.Interface\StockCommerce.Transversal.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

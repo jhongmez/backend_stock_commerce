@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "StockCommerce.Aplication.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/StockCommerce.Aplication.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StockCommerce.Aplication.DTO.dll": {}
+        }
+      },
+      "StockCommerce.Transversal.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/StockCommerce.Transversal.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StockCommerce.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StockCommerce.Aplication.DTO/1.0.0": {
+      "type": "project",
+      "path": "../StockCommerce.Aplication.DTO/StockCommerce.Aplication.DTO.csproj",
+      "msbuildProject": "../StockCommerce.Aplication.DTO/StockCommerce.Aplication.DTO.csproj"
+    },
+    "StockCommerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "path": "../StockCommerce.Transversal.Common/StockCommerce.Transversal.Common.csproj",
+      "msbuildProject": "../StockCommerce.Transversal.Common/StockCommerce.Transversal.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "StockCommerce.Aplication.DTO >= 1.0.0",
+      "StockCommerce.Transversal.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Roland\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Project_C#\\backend_stock_commerce\\StockCommerce\\StockCommerce.Aplication.Interface\\StockCommerce.Aplication.Interface.csproj",
+      "projectName": "StockCommerce.Aplication.Interface",
+      "projectPath": "D:\\Project_C#\\backend_stock_commerce\\StockCommerce\\StockCommerce.Aplication.Interface\\StockCommerce.Aplication.Interface.csproj",
+      "packagesPath": "C:\\Users\\Roland\\.nuget\\packages\\",
+      "outputPath": "D:\\Project_C#\\backend_stock_commerce\\StockCommerce\\StockCommerce.Aplication.Interface\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Roland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\Project_C#\\Credyty\\Nutgets\\SaaS_Container_Nugets": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Project_C#\\backend_stock_commerce\\StockCommerce\\StockCommerce.Aplication.DTO\\StockCommerce.Aplication.DTO.csproj": {
+              "projectPath": "D:\\Project_C#\\backend_stock_commerce\\StockCommerce\\StockCommerce.Aplication.DTO\\StockCommerce.Aplication.DTO.csproj"
+            },
+            "D:\\Project_C#\\backend_stock_commerce\\StockCommerce\\StockCommerce.Transversal.Common\\StockCommerce.Transversal.Common.csproj": {
+              "projectPath": "D:\\Project_C#\\backend_stock_commerce\\StockCommerce\\StockCommerce.Transversal.Common\\StockCommerce.Transversal.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

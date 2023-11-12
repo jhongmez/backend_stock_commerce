@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.21" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StockCommerce.Domain.Entities\StockCommerce.Domain.Entities.csproj" />
+    <ProjectReference Include="..\StockCommerce.Infraestructure.Interface\StockCommerce.Infraestructure.Interface.csproj" />
+    <ProjectReference Include="..\StockCommerce.Transversal.Interface\StockCommerce.Transversal.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

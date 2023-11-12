@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eaxYTwMhxlIunDVV/UBVsxWzqFpTpgu5nXe+RHF/GQY=",
+  "Source": "StockCommerce.Service.API",
+  "BasePath": "_content/StockCommerce.Service.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

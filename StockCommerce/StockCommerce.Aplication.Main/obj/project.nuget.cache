@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SbXIy9FW0hyc5LY+cPAXbD87UBcuTUyCzeZGETFF6hRYCPfeqriSB5b8eKX/oy6yXMXY5tbNbGKPycNPC7N3yQ==",
+  "success": true,
+  "projectFilePath": "D:\\Project_C#\\backend_stock_commerce\\StockCommerce\\StockCommerce.Aplication.Main\\StockCommerce.Aplication.Main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roland\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Roland\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

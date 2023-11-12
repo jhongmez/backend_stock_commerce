@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StockCommerce.Aplication.DTO\StockCommerce.Aplication.DTO.csproj" />
+    <ProjectReference Include="..\StockCommerce.Aplication.Interface\StockCommerce.Aplication.Interface.csproj" />
+    <ProjectReference Include="..\StockCommerce.Aplication.Main\StockCommerce.Aplication.Main.csproj" />
+    <ProjectReference Include="..\StockCommerce.Domain.Entities\StockCommerce.Domain.Entities.csproj" />
+    <ProjectReference Include="..\StockCommerce.Domain.Interface\StockCommerce.Domain.Interface.csproj" />
+    <ProjectReference Include="..\StockCommerce.Domain.Core\StockCommerce.Domain.Core.csproj" />
+    <ProjectReference Include="..\StockCommerce.Infraestructure.Data\StockCommerce.Infraestructure.Data.csproj" />
+    <ProjectReference Include="..\StockCommerce.Infraestructure.Interface\StockCommerce.Infraestructure.Interface.csproj" />
+    <ProjectReference Include="..\StockCommerce.Transversal.Common\StockCommerce.Transversal.Common.csproj" />
+    <ProjectReference Include="..\StockCommerce.Transversal.Interface\StockCommerce.Transversal.Interface.csproj" />
+    <ProjectReference Include="..\StockCommerce.Transversal.Mapper\StockCommerce.Transversal.Mapper.csproj" />
+  </ItemGroup>
+
+</Project>

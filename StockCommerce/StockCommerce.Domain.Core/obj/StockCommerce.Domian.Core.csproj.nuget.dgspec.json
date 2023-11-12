@@ -1,0 +1,371 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Project_C#\\StockCommerce\\StockCommerce.Domian.Core\\StockCommerce.Domian.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\Project_C#\\StockCommerce\\StockCommerce.Domain.Entities\\StockCommerce.Domain.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project_C#\\StockCommerce\\StockCommerce.Domain.Entities\\StockCommerce.Domain.Entities.csproj",
+        "projectName": "StockCommerce.Domain.Entities",
+        "projectPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Domain.Entities\\StockCommerce.Domain.Entities.csproj",
+        "packagesPath": "C:\\Users\\Roland\\.nuget\\packages\\",
+        "outputPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Domain.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Project_C#\\Credyty\\Nutgets\\SaaS_Container_Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project_C#\\StockCommerce\\StockCommerce.Domain.Interface\\StockCommerce.Domain.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project_C#\\StockCommerce\\StockCommerce.Domain.Interface\\StockCommerce.Domain.Interface.csproj",
+        "projectName": "StockCommerce.Domain.Interface",
+        "projectPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Domain.Interface\\StockCommerce.Domain.Interface.csproj",
+        "packagesPath": "C:\\Users\\Roland\\.nuget\\packages\\",
+        "outputPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Domain.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Project_C#\\Credyty\\Nutgets\\SaaS_Container_Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Project_C#\\StockCommerce\\StockCommerce.Domain.Entities\\StockCommerce.Domain.Entities.csproj": {
+                "projectPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Domain.Entities\\StockCommerce.Domain.Entities.csproj"
+              },
+              "D:\\Project_C#\\StockCommerce\\StockCommerce.Transversal.Common\\StockCommerce.Transversal.Common.csproj": {
+                "projectPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Transversal.Common\\StockCommerce.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project_C#\\StockCommerce\\StockCommerce.Domian.Core\\StockCommerce.Domian.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project_C#\\StockCommerce\\StockCommerce.Domian.Core\\StockCommerce.Domian.Core.csproj",
+        "projectName": "StockCommerce.Domian.Core",
+        "projectPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Domian.Core\\StockCommerce.Domian.Core.csproj",
+        "packagesPath": "C:\\Users\\Roland\\.nuget\\packages\\",
+        "outputPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Domian.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Project_C#\\Credyty\\Nutgets\\SaaS_Container_Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Project_C#\\StockCommerce\\StockCommerce.Domain.Entities\\StockCommerce.Domain.Entities.csproj": {
+                "projectPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Domain.Entities\\StockCommerce.Domain.Entities.csproj"
+              },
+              "D:\\Project_C#\\StockCommerce\\StockCommerce.Domain.Interface\\StockCommerce.Domain.Interface.csproj": {
+                "projectPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Domain.Interface\\StockCommerce.Domain.Interface.csproj"
+              },
+              "D:\\Project_C#\\StockCommerce\\StockCommerce.Infraestructure.Interface\\StockCommerce.Infraestructure.Interface.csproj": {
+                "projectPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Infraestructure.Interface\\StockCommerce.Infraestructure.Interface.csproj"
+              },
+              "D:\\Project_C#\\StockCommerce\\StockCommerce.Transversal.Common\\StockCommerce.Transversal.Common.csproj": {
+                "projectPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Transversal.Common\\StockCommerce.Transversal.Common.csproj"
+              },
+              "D:\\Project_C#\\StockCommerce\\StockCommerce.Transversal.Interface\\StockCommerce.Transversal.Interface.csproj": {
+                "projectPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Transversal.Interface\\StockCommerce.Transversal.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project_C#\\StockCommerce\\StockCommerce.Infraestructure.Interface\\StockCommerce.Infraestructure.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project_C#\\StockCommerce\\StockCommerce.Infraestructure.Interface\\StockCommerce.Infraestructure.Interface.csproj",
+        "projectName": "StockCommerce.Infraestructure.Interface",
+        "projectPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Infraestructure.Interface\\StockCommerce.Infraestructure.Interface.csproj",
+        "packagesPath": "C:\\Users\\Roland\\.nuget\\packages\\",
+        "outputPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Infraestructure.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Project_C#\\Credyty\\Nutgets\\SaaS_Container_Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Project_C#\\StockCommerce\\StockCommerce.Domain.Entities\\StockCommerce.Domain.Entities.csproj": {
+                "projectPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Domain.Entities\\StockCommerce.Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project_C#\\StockCommerce\\StockCommerce.Transversal.Common\\StockCommerce.Transversal.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project_C#\\StockCommerce\\StockCommerce.Transversal.Common\\StockCommerce.Transversal.Common.csproj",
+        "projectName": "StockCommerce.Transversal.Common",
+        "projectPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Transversal.Common\\StockCommerce.Transversal.Common.csproj",
+        "packagesPath": "C:\\Users\\Roland\\.nuget\\packages\\",
+        "outputPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Transversal.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Project_C#\\Credyty\\Nutgets\\SaaS_Container_Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project_C#\\StockCommerce\\StockCommerce.Transversal.Interface\\StockCommerce.Transversal.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project_C#\\StockCommerce\\StockCommerce.Transversal.Interface\\StockCommerce.Transversal.Interface.csproj",
+        "projectName": "StockCommerce.Transversal.Interface",
+        "projectPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Transversal.Interface\\StockCommerce.Transversal.Interface.csproj",
+        "packagesPath": "C:\\Users\\Roland\\.nuget\\packages\\",
+        "outputPath": "D:\\Project_C#\\StockCommerce\\StockCommerce.Transversal.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Project_C#\\Credyty\\Nutgets\\SaaS_Container_Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

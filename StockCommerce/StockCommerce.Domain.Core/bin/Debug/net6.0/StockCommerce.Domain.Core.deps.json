@@ -1,0 +1,87 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StockCommerce.Domain.Core/1.0.0": {
+        "dependencies": {
+          "StockCommerce.Domain.Entities": "1.0.0",
+          "StockCommerce.Domain.Interface": "1.0.0",
+          "StockCommerce.Infraestructure.Interface": "1.0.0",
+          "StockCommerce.Transversal.Common": "1.0.0",
+          "StockCommerce.Transversal.Interface": "1.0.0"
+        },
+        "runtime": {
+          "StockCommerce.Domain.Core.dll": {}
+        }
+      },
+      "StockCommerce.Domain.Entities/1.0.0": {
+        "runtime": {
+          "StockCommerce.Domain.Entities.dll": {}
+        }
+      },
+      "StockCommerce.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "StockCommerce.Domain.Entities": "1.0.0",
+          "StockCommerce.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "StockCommerce.Domain.Interface.dll": {}
+        }
+      },
+      "StockCommerce.Infraestructure.Interface/1.0.0": {
+        "dependencies": {
+          "StockCommerce.Domain.Entities": "1.0.0"
+        },
+        "runtime": {
+          "StockCommerce.Infraestructure.Interface.dll": {}
+        }
+      },
+      "StockCommerce.Transversal.Common/1.0.0": {
+        "runtime": {
+          "StockCommerce.Transversal.Common.dll": {}
+        }
+      },
+      "StockCommerce.Transversal.Interface/1.0.0": {
+        "runtime": {
+          "StockCommerce.Transversal.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StockCommerce.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockCommerce.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockCommerce.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockCommerce.Infraestructure.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockCommerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockCommerce.Transversal.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
