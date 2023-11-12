@@ -7,3 +7,12 @@ D:\Project_C#\StockCommerce\StockCommerce.Transversal.Common\obj\Debug\netcoreap
 D:\Project_C#\StockCommerce\StockCommerce.Transversal.Common\obj\Debug\netcoreapp3.1\StockCommerce.Transversal.Common.csproj.CoreCompileInputs.cache
 D:\Project_C#\StockCommerce\StockCommerce.Transversal.Common\obj\Debug\netcoreapp3.1\StockCommerce.Transversal.Common.dll
 D:\Project_C#\StockCommerce\StockCommerce.Transversal.Common\obj\Debug\netcoreapp3.1\StockCommerce.Transversal.Common.pdb
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Transversal.Common\bin\Debug\netcoreapp3.1\StockCommerce.Transversal.Common.deps.json
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Transversal.Common\bin\Debug\netcoreapp3.1\StockCommerce.Transversal.Common.dll
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Transversal.Common\bin\Debug\netcoreapp3.1\StockCommerce.Transversal.Common.pdb
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Transversal.Common\obj\Debug\netcoreapp3.1\StockCommerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Transversal.Common\obj\Debug\netcoreapp3.1\StockCommerce.Transversal.Common.AssemblyInfoInputs.cache
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Transversal.Common\obj\Debug\netcoreapp3.1\StockCommerce.Transversal.Common.AssemblyInfo.cs
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Transversal.Common\obj\Debug\netcoreapp3.1\StockCommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Transversal.Common\obj\Debug\netcoreapp3.1\StockCommerce.Transversal.Common.dll
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Transversal.Common\obj\Debug\netcoreapp3.1\StockCommerce.Transversal.Common.pdb

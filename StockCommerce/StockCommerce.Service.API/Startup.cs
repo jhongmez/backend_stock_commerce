@@ -1,19 +1,14 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using AutoMapper;
-using StockCommerce.Aplication.Interface;
-using StockCommerce.Aplication.Main;
-using StockCommerce.Domain.Interface;
-using StockCommerce.Domain.Core;
-
-
 
 namespace StockCommerce.Service.API
 {
@@ -29,7 +24,13 @@ namespace StockCommerce.Service.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddRazorPages();
+            services.AddControllers();
+            services.AddDataProtection();
+            services.AddControllers();
+
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2).
+                AddJsonOptions(op => { new Newtonsoft.Json.Serialization.DefaultContractResolver(); });
+                
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -39,12 +40,6 @@ namespace StockCommerce.Service.API
             {
                 app.UseDeveloperExceptionPage();
             }
-            else
-            {
-                app.UseExceptionHandler("/Error");
-            }
-
-            app.UseStaticFiles();
 
             app.UseRouting();
 
@@ -52,7 +47,7 @@ namespace StockCommerce.Service.API
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapRazorPages();
+                endpoints.MapControllers();
             });
         }
     }

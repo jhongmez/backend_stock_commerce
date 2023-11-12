@@ -11,3 +11,16 @@ D:\Project_C#\StockCommerce\StockCommerce.Infraestructure.Interface\obj\Debug\ne
 D:\Project_C#\StockCommerce\StockCommerce.Infraestructure.Interface\obj\Debug\netcoreapp3.1\StockCommerce.Infraestructure.Interface.csproj.CopyComplete
 D:\Project_C#\StockCommerce\StockCommerce.Infraestructure.Interface\obj\Debug\netcoreapp3.1\StockCommerce.Infraestructure.Interface.dll
 D:\Project_C#\StockCommerce\StockCommerce.Infraestructure.Interface\obj\Debug\netcoreapp3.1\StockCommerce.Infraestructure.Interface.pdb
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Infraestructure.Interface\bin\Debug\netcoreapp3.1\StockCommerce.Infraestructure.Interface.deps.json
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Infraestructure.Interface\bin\Debug\netcoreapp3.1\StockCommerce.Infraestructure.Interface.dll
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Infraestructure.Interface\bin\Debug\netcoreapp3.1\StockCommerce.Infraestructure.Interface.pdb
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Infraestructure.Interface\bin\Debug\netcoreapp3.1\StockCommerce.Domain.Entities.dll
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Infraestructure.Interface\bin\Debug\netcoreapp3.1\StockCommerce.Domain.Entities.pdb
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Infraestructure.Interface\obj\Debug\netcoreapp3.1\StockCommerce.Infraestructure.Interface.csproj.AssemblyReference.cache
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Infraestructure.Interface\obj\Debug\netcoreapp3.1\StockCommerce.Infraestructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Infraestructure.Interface\obj\Debug\netcoreapp3.1\StockCommerce.Infraestructure.Interface.AssemblyInfoInputs.cache
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Infraestructure.Interface\obj\Debug\netcoreapp3.1\StockCommerce.Infraestructure.Interface.AssemblyInfo.cs
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Infraestructure.Interface\obj\Debug\netcoreapp3.1\StockCommerce.Infraestructure.Interface.csproj.CoreCompileInputs.cache
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Infraestructure.Interface\obj\Debug\netcoreapp3.1\StockCommerce.Infraestructure.Interface.csproj.CopyComplete
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Infraestructure.Interface\obj\Debug\netcoreapp3.1\StockCommerce.Infraestructure.Interface.dll
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Infraestructure.Interface\obj\Debug\netcoreapp3.1\StockCommerce.Infraestructure.Interface.pdb

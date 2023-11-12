@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockCommerce.Transversal.Common", "StockCommerce.Transversal.Common\StockCommerce.Transversal.Common.csproj", "{4F7C512C-B2D4-4AFE-AD39-E66393289797}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockCommerce.Transversal.Common", "StockCommerce.Transversal.Common\StockCommerce.Transversal.Common.csproj", "{4F7C512C-B2D4-4AFE-AD39-E66393289797}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Transversal", "Transversal", "{BC968045-FDFB-4008-98F4-CCD26BA6A40E}"
 EndProject
@@ -15,27 +15,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplicacion", "Aplicacion", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servicio", "Servicio", "{F449A710-A8FA-440D-9EEB-157F205D29C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockCommerce.Infraestructure.Data", "StockCommerce.Infraestructure.Data\StockCommerce.Infraestructure.Data.csproj", "{2555A2C8-5882-4E77-A8D2-E9CF3D613055}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockCommerce.Infraestructure.Data", "StockCommerce.Infraestructure.Data\StockCommerce.Infraestructure.Data.csproj", "{2555A2C8-5882-4E77-A8D2-E9CF3D613055}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockCommerce.Infraestructure.Interface", "StockCommerce.Infraestructure.Interface\StockCommerce.Infraestructure.Interface.csproj", "{DC20BFBC-41D9-4DCF-A910-8C1819D0D81F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockCommerce.Infraestructure.Interface", "StockCommerce.Infraestructure.Interface\StockCommerce.Infraestructure.Interface.csproj", "{DC20BFBC-41D9-4DCF-A910-8C1819D0D81F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockCommerce.Domain.Entities", "StockCommerce.Domain.Entities\StockCommerce.Domain.Entities.csproj", "{7543069E-9B92-42EF-8FB3-5B631AE18B0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockCommerce.Domain.Entities", "StockCommerce.Domain.Entities\StockCommerce.Domain.Entities.csproj", "{7543069E-9B92-42EF-8FB3-5B631AE18B0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockCommerce.Domain.Interface", "StockCommerce.Domain.Interface\StockCommerce.Domain.Interface.csproj", "{A6BCE5CA-A8A3-46BC-A70D-E472EB13C5EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockCommerce.Domain.Interface", "StockCommerce.Domain.Interface\StockCommerce.Domain.Interface.csproj", "{A6BCE5CA-A8A3-46BC-A70D-E472EB13C5EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockCommerce.Transversal.Interface", "StockCommerce.Transversal.Interface\StockCommerce.Transversal.Interface.csproj", "{EAD2B684-313D-4427-98DF-17C969D2B373}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockCommerce.Transversal.Interface", "StockCommerce.Transversal.Interface\StockCommerce.Transversal.Interface.csproj", "{EAD2B684-313D-4427-98DF-17C969D2B373}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockCommerce.Aplication.DTO", "StockCommerce.Aplication.DTO\StockCommerce.Aplication.DTO.csproj", "{025404D3-1ED0-4607-8340-E0A2F1A1E762}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockCommerce.Aplication.DTO", "StockCommerce.Aplication.DTO\StockCommerce.Aplication.DTO.csproj", "{025404D3-1ED0-4607-8340-E0A2F1A1E762}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockCommerce.Transversal.Mapper", "StockCommerce.Transversal.Mapper\StockCommerce.Transversal.Mapper.csproj", "{9D7D7565-BFA6-464B-B5EF-A32865CE439C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockCommerce.Transversal.Mapper", "StockCommerce.Transversal.Mapper\StockCommerce.Transversal.Mapper.csproj", "{9D7D7565-BFA6-464B-B5EF-A32865CE439C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockCommerce.Aplication.Interface", "StockCommerce.Aplication.Interface\StockCommerce.Aplication.Interface.csproj", "{64E820D7-2074-4DA9-8517-11D21C70B889}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockCommerce.Aplication.Interface", "StockCommerce.Aplication.Interface\StockCommerce.Aplication.Interface.csproj", "{64E820D7-2074-4DA9-8517-11D21C70B889}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockCommerce.Aplication.Main", "StockCommerce.Aplication.Main\StockCommerce.Aplication.Main.csproj", "{6C404E00-3F65-4B5D-8AC6-A34515A08B00}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockCommerce.Service.API", "StockCommerce.Service.API\StockCommerce.Service.API.csproj", "{9743D65B-E592-46D4-9CC2-1A93BA7856A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockCommerce.Aplication.Main", "StockCommerce.Aplication.Main\StockCommerce.Aplication.Main.csproj", "{6C404E00-3F65-4B5D-8AC6-A34515A08B00}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockCommerce.Domain.Core", "StockCommerce.Domain.Core\StockCommerce.Domain.Core.csproj", "{453EABB6-143E-4545-AFE2-05249BBFA0CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockCommerce.Service.API", "StockCommerce.Service.API\StockCommerce.Service.API.csproj", "{6E60F8BD-121E-4811-9483-9BA48D101883}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,14 +83,14 @@ Global
 		{6C404E00-3F65-4B5D-8AC6-A34515A08B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C404E00-3F65-4B5D-8AC6-A34515A08B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C404E00-3F65-4B5D-8AC6-A34515A08B00}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9743D65B-E592-46D4-9CC2-1A93BA7856A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9743D65B-E592-46D4-9CC2-1A93BA7856A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9743D65B-E592-46D4-9CC2-1A93BA7856A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9743D65B-E592-46D4-9CC2-1A93BA7856A5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{453EABB6-143E-4545-AFE2-05249BBFA0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{453EABB6-143E-4545-AFE2-05249BBFA0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{453EABB6-143E-4545-AFE2-05249BBFA0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{453EABB6-143E-4545-AFE2-05249BBFA0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E60F8BD-121E-4811-9483-9BA48D101883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E60F8BD-121E-4811-9483-9BA48D101883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E60F8BD-121E-4811-9483-9BA48D101883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E60F8BD-121E-4811-9483-9BA48D101883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -106,8 +106,8 @@ Global
 		{9D7D7565-BFA6-464B-B5EF-A32865CE439C} = {BC968045-FDFB-4008-98F4-CCD26BA6A40E}
 		{64E820D7-2074-4DA9-8517-11D21C70B889} = {75F2337D-5B5A-4277-9B85-DEE3A2C3A29D}
 		{6C404E00-3F65-4B5D-8AC6-A34515A08B00} = {75F2337D-5B5A-4277-9B85-DEE3A2C3A29D}
-		{9743D65B-E592-46D4-9CC2-1A93BA7856A5} = {F449A710-A8FA-440D-9EEB-157F205D29C4}
 		{453EABB6-143E-4545-AFE2-05249BBFA0CC} = {9BBDDE68-A160-41C2-8A39-2AA3941EB01C}
+		{6E60F8BD-121E-4811-9483-9BA48D101883} = {F449A710-A8FA-440D-9EEB-157F205D29C4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC0D57E0-FE6F-442B-AC8C-34C809C7A069}

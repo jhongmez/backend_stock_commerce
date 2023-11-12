@@ -7,3 +7,12 @@ D:\Project_C#\StockCommerce\StockCommerce.Domain.Entities\obj\Debug\netcoreapp3.
 D:\Project_C#\StockCommerce\StockCommerce.Domain.Entities\obj\Debug\netcoreapp3.1\StockCommerce.Domain.Entities.csproj.CoreCompileInputs.cache
 D:\Project_C#\StockCommerce\StockCommerce.Domain.Entities\obj\Debug\netcoreapp3.1\StockCommerce.Domain.Entities.dll
 D:\Project_C#\StockCommerce\StockCommerce.Domain.Entities\obj\Debug\netcoreapp3.1\StockCommerce.Domain.Entities.pdb
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Domain.Entities\bin\Debug\netcoreapp3.1\StockCommerce.Domain.Entities.deps.json
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Domain.Entities\bin\Debug\netcoreapp3.1\StockCommerce.Domain.Entities.dll
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Domain.Entities\bin\Debug\netcoreapp3.1\StockCommerce.Domain.Entities.pdb
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Domain.Entities\obj\Debug\netcoreapp3.1\StockCommerce.Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Domain.Entities\obj\Debug\netcoreapp3.1\StockCommerce.Domain.Entities.AssemblyInfoInputs.cache
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Domain.Entities\obj\Debug\netcoreapp3.1\StockCommerce.Domain.Entities.AssemblyInfo.cs
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Domain.Entities\obj\Debug\netcoreapp3.1\StockCommerce.Domain.Entities.csproj.CoreCompileInputs.cache
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Domain.Entities\obj\Debug\netcoreapp3.1\StockCommerce.Domain.Entities.dll
+D:\Project_C#\backend_stock_commerce\StockCommerce\StockCommerce.Domain.Entities\obj\Debug\netcoreapp3.1\StockCommerce.Domain.Entities.pdb
